@@ -2,6 +2,23 @@
 
 A private music app I built myself: one app for the phone, the car and the TV, streaming from my own music server at home.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="images/home.webp" width="190" alt="Home screen with mixes and recently played">
+  <img src="images/player.webp" width="190" alt="Now playing with synced lyrics">
+  <img src="images/search.webp" width="190" alt="Search with typo-tolerant results">
+  <img src="images/login.webp" width="190" alt="Sign in to your own server">
+</p>
+
+<p align="center"><b>In the car:</b> cover, song and synced lyrics on the BMW iDrive screen</p>
+
+<p align="center">
+  <img src="images/car.webp" width="780" alt="Cover screen on the car's iDrive display">
+</p>
+
+<p align="center"><sub>Shown with demo songs and a placeholder server address.</sub></p>
+
 ## ✨ What it does
 
 **📱 Phone**
